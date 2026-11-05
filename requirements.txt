@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn>=1.2
+scikit-image
+matplotlib
+seaborn
+h5py
+torch
+torchvision
+transformers
+gensim
+reportlab
+joblib
