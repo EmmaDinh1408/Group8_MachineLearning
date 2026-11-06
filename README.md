@@ -2,18 +2,19 @@
 
 | | |
 |---|---|
-| **Môn học** | Học máy (Machine Learning) — mã môn học: *[điền mã môn]* |
+| **Môn học** | Học máy — mã môn học: CO3117 |
 | **Học kỳ / Năm học** | Học kỳ I — 2026-2027 |
 | **Trường / Khoa** | Đại học Bách Khoa, ĐHQG-HCM — Khoa Khoa học và Kỹ thuật Máy tính |
-| **GVHD** | *[Họ tên giảng viên hướng dẫn — email]* |
+| **GVHD** | Trương Vĩnh Lân |
 
 ## Thành viên nhóm
 
 | STT | Họ và tên | MSSV | Email | Đóng góp (%) |
 |---|---|---|---|---|
-| 1 | *[Họ tên]* | *[MSSV]* | *[email]* | *[..]* |
-| 2 | *[Họ tên]* | *[MSSV]* | *[email]* | *[..]* |
-| 3 | *[Họ tên]* | *[MSSV]* | *[email]* | *[..]* |
+| 1 | Đinh Ngụy Nguyệt Hà | 2352286 | ha.dinhnguy2005@hcmut.edu.vn | 100% |
+| 2 | Đặng Thế Lâm Anh | *[MSSV]* | *[email]* | 100% |
+| 3 | Hồng Chấn Phước | *[MSSV]* | *[email]* | 100% |
+| 4 | Trần Bá Minh Quân | *[MSSV]* | *[email]* | 100% |
 
 ## Mục tiêu
 
@@ -78,6 +79,6 @@ Báo cáo lấy **số liệu và hình thật từ các lần chạy**; nhóm c
 
 ## Liên kết
 
-- Báo cáo PDF: `reports/BaoCao_BTL_HocMay.pdf` — *[link nếu có]*
+- Báo cáo PDF: `reports/Group 8 Machine Learning Report.pdf` — *[link nếu có]*
 - Colab notebooks: *[link Bài 1]* · *[link Bài 2]* · *[link Bài 3]*
-- Link tải đặc trưng (nếu quá nặng để nộp kèm): *[link]*
+- Link tải đặc trưng: *[link]*
