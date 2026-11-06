@@ -1,10 +1,10 @@
 """Sinh báo cáo PDF từ kết quả thật mà các notebook đã lưu (reports/results_*.csv, reports/figures/*.png).
 
 Chạy sau khi đã chạy các notebook:
-    python modules/make_report.py                # tạo reports/BaoCao_BTL_HocMay.pdf
+    python modules/make_report.py                # tạo reports/Group 8 Machine Learning Report.pdf
 Sửa dict GROUP và danh sách PHAN_CONG bên dưới (thông tin nhóm, bảng phân công, tỉ lệ đóng góp).
 Phần "Nhận xét/phân tích" tự động chỉ nêu số liệu; nhóm cần bổ sung phần giải thích của mình trong
-các hộp NHAN_XET_TAY ở cuối từng bài.
+các hộp NHAN_XET_TAY ở cuối từng bài. 
 """
 import os
 import sys
@@ -23,7 +23,7 @@ from reportlab.platypus import (Image, PageBreak, Paragraph, SimpleDocTemplate, 
 
 REPORT_DIR = "reports"
 FIG_DIR = os.path.join(REPORT_DIR, "figures")
-OUT = os.path.join(REPORT_DIR, "BaoCao_BTL_HocMay.pdf")
+OUT = os.path.join(REPORT_DIR, "Group 8 Machine Learning Report.pdf")
 
 # ----------------------------------------------------------------------------
 # >>> NHÓM ĐIỀN THÔNG TIN Ở ĐÂY <<<

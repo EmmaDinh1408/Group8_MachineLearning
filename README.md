@@ -78,6 +78,12 @@ Báo cáo lấy **số liệu và hình thật từ các lần chạy**; nhóm c
 ```
 
 ## Liên kết
+- Dataset: 
+| STT | Phân loại | Tên | Link | 
+|---|---|---|---|
+| 1 | Tabular | Hotel Booking Demand | https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand |
+| 2 | Text | BBC News Archive | https://www.kaggle.com/datasets/hgultekin/bbcnewsarchive |
+| 3 | Image | Food Classification | https://www.kaggle.com/datasets/bjoernjostein/food-classification/data |
 
 - Báo cáo PDF: `reports/Group 8 Machine Learning Report.pdf` — *[link nếu có]*
 - Colab notebooks: *[link Bài 1]* · *[link Bài 2]* · *[link Bài 3]*
